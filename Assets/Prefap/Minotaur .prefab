@@ -148,9 +148,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 380dd39015f5e6f44a28e8350f60fc42, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _health: 10
-  _revard: 1
-  _taget: {fileID: 0}
+  _health: 1
+  _revard: 10
 --- !u!114 &2601597423807261457
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -208,8 +207,8 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _transitions:
   - {fileID: 2601597423807261549}
-  _damage: 10
-  _delay: 2
+  _damage: 1
+  _delay: 3
 --- !u!114 &2601597423807261549
 MonoBehaviour:
   m_ObjectHideFlags: 0
